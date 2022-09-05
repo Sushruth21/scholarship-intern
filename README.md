@@ -1,4 +1,4 @@
-# Scholarship Management System
+# Scholarship Management System - INTERN
 A Scholarship Portal, where
 * **Student** applies for the scholarship
 * **College** verifies the student's applications belonging to that college
